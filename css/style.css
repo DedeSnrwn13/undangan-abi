@@ -1748,3 +1748,16 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
+
+#carasingkat {
+  font-weight: 700;
+  color: white;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 700px) {
+  #carasingkat {
+    font-size: 16px;
+  }
+}
